@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Liganeoegoista-gCPL.aternos.me",
+    "ip": "Liganeoegoista-gCPL.aternos.me:39604",
     "port": 39604,
-    "version": "26.1.2",
+    "version": "26.1.2(69)",
     "try-creative": false
   },
   "position": {
