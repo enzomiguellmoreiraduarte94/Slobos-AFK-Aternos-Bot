@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Ancelotti",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Liganeoegoista-gCPL.aternos.me:39604",
-    "port": 39604,
-    "version": "1.21.11",
+    "ip": "JogadoresdaPesada.aternos.me",
+    "port": 35563,
+    "version": "1.26.2",
     "try-creative": false
   },
   "position": {
